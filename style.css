@@ -25,7 +25,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
     border: 1px solid lightgrey;
     display: grid;
     padding: 20px;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
 .details-container {
